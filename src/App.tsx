@@ -1,14 +1,16 @@
 import React from 'react';
-import './App.css';
+import { Nav } from './layouts/Nav';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className='flex flex-col mx-40 bg-black'>
+        <header>
+            <Nav />
+        </header>
         <div className='text-3xl font-bold underline text-red-300'>Recipe</div>
-      </header>
+        
     </div>
-  );
+)
 }
 
 export default App;
