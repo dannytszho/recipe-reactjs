@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "title": "Recipe 1",
+      "image": "https://placehold.co/600x400",
+      "description": "This is a delicious recipe for..."
+    },
+    {
+      "title": "Recipe 2",
+      "image": "https://placehold.co/600x400",
+      "description": "Enjoy this savory dish that..."
+    },
+    {
+      "title": "Recipe 3",
+      "image": "https://placehold.co/600x400",
+      "description": "A classic recipe that's perfect for..."
+    },
+    {
+      "title": "Recipe 4",
+      "image": "https://placehold.co/600x400",
+      "description": "Try this healthy and refreshing..."
+    },
+    {
+      "title": "Recipe 5",
+      "image": "https://placehold.co/600x400",
+      "description": "Indulge in the rich flavors of..."
+    },
+    {
+      "title": "Recipe 6",
+      "image": "https://placehold.co/600x400",
+      "description": "A simple yet satisfying recipe..."
+    },
+    {
+      "title": "Recipe 7",
+      "image": "https://placehold.co/600x400",
+      "description": "Warm up with a bowl of this hearty..."
+    },
+    {
+      "title": "Recipe 8",
+      "image": "https://placehold.co/600x400",
+      "description": "Impress your guests with this gourmet..."
+    },
+    {
+      "title": "Recipe 9",
+      "image": "https://placehold.co/600x400",
+      "description": "A sweet treat that's perfect for..."
+    },
+    {
+      "title": "Recipe 10",
+      "image": "https://placehold.co/600x400",
+      "description": "This recipe combines the flavors of..."
+    }
+  ]
+}
